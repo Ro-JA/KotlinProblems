@@ -11,7 +11,7 @@ files:
 feedback_link: https://hyperskill.org/learn/step/4668#comment
 status: Failed
 feedback:
-  message: |+
+  message: |
     Failed test #1 of 12. Wrong answer
 
     This is a sample test from the problem statement!
@@ -22,7 +22,7 @@ feedback:
     1 2 2 3 3 3 4
 
     Your code output:
-
-  time: "Sun, 10 Sep 2023 01:11:20 UTC"
+    1223334444555556666667777777
+  time: "Sun, 10 Sep 2023 01:23:28 UTC"
 record: -1
 submission_language: kotlin
