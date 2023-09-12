@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -7,10 +8,12 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="Embedded JDK" />
+        <option name="gradleJvm" value="jbr-17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Cause an exception" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Theory" />
             <option value="$PROJECT_DIR$/Topics/While loops/Balance checker" />
             <option value="$PROJECT_DIR$/Topics/While loops/Choose the correct ones" />
             <option value="$PROJECT_DIR$/Topics/While loops/Squares of natural numbers" />
