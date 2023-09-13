@@ -1,3 +1,5 @@
 fun main() {
-    // Write some code to cause an exception
+    val numOne = readln().toInt()
+    val numTwo = 0
+    println("${numOne / numTwo}")
 }
