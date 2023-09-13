@@ -12,6 +12,15 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Allowance for functions" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Generated functions" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Illegal to override" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Not overridable" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Room mystery" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data class/We are students" />
+            <option value="$PROJECT_DIR$/Topics/Data class/equals() check" />
+            <option value="$PROJECT_DIR$/Topics/Data class/toString() modification" />
             <option value="$PROJECT_DIR$/Topics/What is an exception/Cause an exception" />
             <option value="$PROJECT_DIR$/Topics/What is an exception/Theory" />
             <option value="$PROJECT_DIR$/Topics/While loops/Balance checker" />
@@ -25,6 +34,8 @@
             <option value="$PROJECT_DIR$/Topics/While loops/Theory" />
             <option value="$PROJECT_DIR$/Topics/While loops/What does the code print" />
             <option value="$PROJECT_DIR$/Topics/While loops/What does the code print (1)" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Number of cups" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
